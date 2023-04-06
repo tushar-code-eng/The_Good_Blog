@@ -1,0 +1,31 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/thecleanblog",
+    "prod_uri": "",
+    "fb_url":" https://facebook.com/thecleanblog",
+    "tw_url": "https://twitter.com/thecleanblog",
+    "gh_url": "https://github.com/thecleanblog",
+    "blog_name": "Coders Blog",
+    "gmail-user": "tusharbajaj@gmail.com",
+    "gmail-password": "whyiforgetmypassword",
+    "about_text": "hello this will go in about text",
+    "no_of_posts": 3,
+    "img":"",
+    "login_img": "book.jpg",
+    "admin_username": "Tushar",
+    "admin_password": "hellobhai",
+    "upload_location": "C:\\Users\\Tushar bajaj\\PycharmProjects\\flask\\static",
+    "posted_by": "Tushar Bajaj"
+
+  }
+
+
+
+
+
+
+
+
+}
